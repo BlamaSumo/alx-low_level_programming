@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * main - prints the minimum number of coins to make change for an amount
+ * main - main function
  * @argc: argument count
  * @argv: argument vector
  * Return: 0
